@@ -1,5 +1,4 @@
 # Sistema-EducaPlus
-# Sistema de Gestão de Cursos Online - EducaPlus
 
 ## 1. Visão Geral
 
